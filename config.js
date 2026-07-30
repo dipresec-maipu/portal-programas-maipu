@@ -3,7 +3,7 @@
  * Reemplace SCRIPT_URL por la URL /exec de la implementación de Apps Script.
  */
 window.PORTAL_CONFIG = {
-  SCRIPT_URL: "PEGAR_AQUI_URL_APPS_SCRIPT_EXEC",
+  SCRIPT_URL: "https://script.google.com/macros/s/AKfycbwiLp3J1yTbPG1cvrbdpsBYJp6eBklvLJQzZr2n3b-xw1PiQoKRYDdj5Kiac62IIu42/exec",
   GEOJSON_URL: "assets/barrios.geojson",
   LOGO_URL: "assets/logo-maipu.png",
   CENTRO_MAPA: [-33.5102, -70.7565],
